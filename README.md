@@ -62,5 +62,5 @@ Developed backend systems and web applications using Node.js, Express, and Mongo
 
 ## 📫 Connect With Me
 
-LinkedIn: [linkedin.com/in/marco-reiners-8b2984346]  
+LinkedIn: [ linkedin.com/in/marco-reiners-8b2984346 ]  
 Email: [marcoreiners816@gmail.com] 
