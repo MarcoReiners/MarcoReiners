@@ -46,15 +46,15 @@ Object-Oriented Programming • Distributed Systems • System Design • API In
 
 ## 🚀 Featured Work
 
-🔹 Drone-Based 3D Accident Scene Mapping System  
+#🔹 Drone-Based 3D Accident Scene Mapping System  
 Machine learning-powered system that analyzes 3D drone-mapped accident scenes to detect and classify vehicle damage. 
-🔹 Machine Learning Classification Systems  
+#🔹 Machine Learning Classification Systems  
 Built and evaluated ML models including Random Forest, XGBoost, and Logistic Regression for predictive analytics.  
-🔹 Distributed NoSQL E-commerce Database  
+#🔹 Distributed NoSQL E-commerce Database  
 Designed and implemented a distributed database system for scalable e-commerce operations.
-🔹 Full-Stack Web Applications  
+#🔹 Full-Stack Web Applications  
 Developed backend systems and web applications using Node.js, Express, and MongoDB.
-🔹 Linear Programming Solver (C# Implementation)   
+#🔹 Linear Programming Solver (C# Implementation)   
 
 (See pinned repositories below for full implementations 👇)
 
