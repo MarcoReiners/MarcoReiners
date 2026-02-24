@@ -134,5 +134,5 @@ Machine learning project focused on modeling airline data to predict performance
 
 ## 📫 Connect With Me
 
-LinkedIn: [linkedin.com/in/marco-reiners-8b2984346](https://linkedin.com/in/marco-reiners-8b2984346)
-Email: [marcoreiners816@gmail.com] 
+- LinkedIn: [linkedin.com/in/marco-reiners-8b2984346](https://linkedin.com/in/marco-reiners-8b2984346)
+- Email: [marcoreiners816@gmail.com] 
