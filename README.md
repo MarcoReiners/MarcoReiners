@@ -97,6 +97,18 @@ Built an Express-based server to:
 **Architecture:** Server-Side Rendering • Route-Based MVC Structure  
 **My Role:** Contributed across backend routing, template rendering, server configuration, and feature implementation.
 
+### 📐 Linear & Integer Programming Solver (LPR381)  
+C# console application implementing core Linear Programming (LP) and Integer Programming (IP) optimization algorithms from scratch.
+Built a modular solver capable of:
+- Converting models to canonical form  
+- Solving LP problems using the Primal Simplex method  
+- Performing Branch-and-Bound for integer solutions  
+- Applying Gomory Cutting Planes  
+- Solving Knapsack optimization problems  
+- Parsing structured input files and generating textual result reports  
+**Tech:** C# • .NET • Algorithm Implementation • Mathematical Optimization  
+**My Role:**Implemented the canonical form transformation logic, developed the Primal Simplex solver, and designed the Knapsack algorithm module.
+
 ### 📊 Student Performance Analysis (MLG381)  
 Machine learning project focused on analyzing and modeling student performance data using a structured preprocessing and evaluation pipeline.
 **Tech:** Python • Pandas • NumPy • Scikit-learn  
