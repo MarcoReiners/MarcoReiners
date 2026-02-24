@@ -52,11 +52,13 @@ Trimesh • Pyrender • ReportLab
 Git • GitHub • Postman • Dash • Render • Visual Studio
 
 ### 🧠 Engineering Foundations
-Object-Oriented Programming  
-System Design & Layered Architecture  
-MVC Pattern • Server-Side Rendering  
-API Integration  
-SDLC • Agile Principles  
+- Object-Oriented Programming
+- System Design & Layered Architecture
+- MVC Pattern
+- Server-Side Rendering
+- API Integration
+- SDLC & Agile Principles
+  
 ---
 
 ## 🚀 Featured Work
