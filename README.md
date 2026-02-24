@@ -69,7 +69,7 @@ Built a staged Python pipeline that:
 **Tech:** Python • Flask • Roboflow API • ReportLab • Trimesh • Pyrender  
 **My Role:** Implemented the ML inference integration and designed the automated PDF report generation system.
 
-### 🦸 Superhero Registry Management System  
+### 🦸 Superhero Registry Management System   
 Layered C# Windows Forms application for managing superhero records with automated ranking logic and summary reporting.
 
 Designed and implemented a structured multi-layer architecture (Domain, Data, Presentation) to:
