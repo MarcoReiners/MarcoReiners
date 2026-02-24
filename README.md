@@ -1,6 +1,6 @@
 ## Hi, Im Marco👋
 
-🎓 BComp Software Engineering Student  
+🎓 Final-Year BComp Software Engineering Student  
 💻 Passionate about coding and building real-world applications  
 🚀 Focused on full-stack and backend development, web applications, machine learning, and scalable systems
 🧠 Driven to analyze everyday problems and engineer effective software solutions that leaves real impact
@@ -9,58 +9,66 @@
 
 ## 👨‍💻 About Me
 
-I am a 4rth year Software Engineering student at Belgium Campus iTversity, passionate about solving real word problems by planning, designing, and building intelligent software solutions and practical, real-world applications. I focus on writing clean, maintainable code and developing scalable systems.
+I am a 4rth year Software Engineering student at Belgium Campus iTversity, with a strong foundation in software development, systems design, databases,
+machine learning, and mathematical problem solving.
 
-From backend systems, intellegent machine learning solutions, database architecture and REST API's to full-stack web applications and deplployment, I enjoy it all.
+Passionate about solving real-word problems by planning, designing, and building intelligent software solutions and applications— from backend systems and full-stack web applications
+to intelligent data-driven solutions. My approach combines solid theoretical understanding with clean, maintainable code implementation.
 
-I hold myself to high standards and believe in finishing what I start. Persistence, discipline, and continuous improvement guide how I approach every project.
-
-I am particularly interested in:
-- Scalable Backend systems
-- Machine learning and AI systems
-- Databases
-- Full-stack development
+I am particularly interested in designing scalable systems, solving complex problems, and continuously improving my technical and analytical skills.
 
 ---
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-Python • C# • JavaScript • SQL • HTML • CSS  
+### 💻 Programming
+C# • Python • JavaScript • SQL • HTML • CSS  
 
-### 🌐 Web & Backend Development
-Node.js • Express • ADO.Net • REST APIs • MongoDB  
+### 🌐 Backend & Application Development
+.NET Framework • ADO.NET
+Node.js • Express.js  
+RESTful API Design • Server-Side Development  
+
+### 🗄️ Databases & Data Systems
+SQL Server • MySQL • MongoDB  
+Distributed Database Systems  
+Query Processing • Concurrency Control • Transaction Management 
 
 ### 🤖 Machine Learning & Data
-Scikit-learn • XGBoost • Data Preprocessing • Model Evaluation
+NumPy • Pandas • Scikit-learn • XGBoost  
+Supervised & Unsupervised Learning  
+Data Preprocessing • Model Evaluation 
 
-### 🗄️ Databases
-MongoDB • MySQL  
+### 📐 Optimization & Algorithms
+• Linear Programming  
+• Discrete Programming  
+• Integer Programming  
 
-### ⚙️ Tools & Technologies
-Git • GitHub • Dash • Render •   
+### ⚙️ Tools
+Git • GitHub • Postman • Dash • Render 
 
-### 🧠 Core Concepts
-Object-Oriented Programming • Distributed Systems • System Design • API Integration • Software Architecture • Databases  
+### 🧠 Engineering Foundations
+• Object-Oriented Programming  
+• System Design & Layered Architecture  
+• API Integration  
+SDLC • Agile Principles  
 
 ---
 
 ## 🚀 Featured Work
 
-- **Drone-Based 3D Accident Scene Mapping System**  
-  Machine learning-powered system that analyzes 3D drone-mapped accident scenes to detect and classify vehicle damage (This in only the backend part on which i worked on).
+### 🛰️ Drone-Based 3D Accident Scene Mapping System  
+Backend processing system for automated vehicle damage detection and structured insurance report generation.
 
-- **Machine Learning Classification Systems**  
-  Built and evaluated ML models including Random Forest, XGBoost, and Logistic Regression.
+Built a staged Python pipeline that:
+- Accepts uploaded 3D `.glb` models or images via a Flask API  
+- Renders 2D orthographic views from 3D models  
+- Runs ML inference using a Roboflow object detection model  
+- Normalizes and stores structured JSON annotations  
+- Generates professional PDF damage reports with severity scoring and annotated images  
 
-- **Distributed NoSQL E-commerce Database**  
-  Designed and implemented a distributed database system for scalable e-commerce operations.
+**Tech:** Python • Flask • Roboflow API • ReportLab • Trimesh • Pyrender  
+**My Role:** Implemented the ML inference integration and designed the automated PDF report generation system.
 
-- **Full-Stack Web Applications**  
-  Developed backend systems using Node.js, Express, and MongoDB.
-
-- **Linear Programming Solver (C# Implementation)**  
-  Implemented optimization algorithms using C#.
-  
 (See pinned repositories below for full implementations 👇)
 
 
