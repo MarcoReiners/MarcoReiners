@@ -24,34 +24,39 @@ I am particularly interested in designing scalable systems, solving complex prob
 C# • Python • JavaScript • SQL • HTML • CSS  
 
 ### 🌐 Backend & Application Development
-.NET Framework • ADO.NET
-Node.js • Express.js  
-RESTful API Design • Server-Side Development  
+.NET Framework • ADO.NET • Windows Forms  
+Node.js • Express.js • Flask  
+EJS • RESTful API Design • Server-Side Development 
 
 ### 🗄️ Databases & Data Systems
-SQL Server • MySQL • MongoDB  
+SQL Server • MySQL • MongoDB • JSON File Persistence  
 Distributed Database Systems  
-Query Processing • Concurrency Control • Transaction Management 
+Query Processing • Concurrency Control • Transaction Management
 
 ### 🤖 Machine Learning & Data
 NumPy • Pandas • Scikit-learn • XGBoost  
+TensorFlow • Keras • Roboflow API  
 Supervised & Unsupervised Learning  
 Data Preprocessing • Model Evaluation 
 
 ### 📐 Optimization & Algorithms
-• Linear Programming  
-• Discrete Programming  
-• Integer Programming  
+Linear Programming  
+Discrete Programming  
+Integer Programming  
+Primal Simplex • Branch-and-Bound • Gomory Cutting Planes • Knapsack
+
+### 🖼️ 3D Rendering & Document Generation
+Trimesh • Pyrender • ReportLab 
 
 ### ⚙️ Tools
-Git • GitHub • Postman • Dash • Render 
+Git • GitHub • Postman • Dash • Render • Visual Studio
 
 ### 🧠 Engineering Foundations
-• Object-Oriented Programming  
-• System Design & Layered Architecture  
-• API Integration  
+Object-Oriented Programming  
+System Design & Layered Architecture  
+MVC Pattern • Server-Side Rendering  
+API Integration  
 SDLC • Agile Principles  
-
 ---
 
 ## 🚀 Featured Work
