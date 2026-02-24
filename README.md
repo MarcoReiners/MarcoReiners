@@ -105,9 +105,11 @@ Built a modular solver capable of:
 - Performing Branch-and-Bound for integer solutions  
 - Applying Gomory Cutting Planes  
 - Solving Knapsack optimization problems  
-- Parsing structured input files and generating textual result reports  
+- Parsing structured input files and generating textual result reports
+  
 **Tech:** C# • .NET • Algorithm Implementation • Mathematical Optimization  
-**My Role:**Implemented the canonical form transformation logic, developed the Primal Simplex solver, and designed the Knapsack algorithm module.
+
+**My Role:** Implemented the canonical form transformation logic, developed the Primal Simplex solver, and designed the Knapsack algorithm module.
 
 ### 📊 Student Performance Analysis (MLG381)  
 Machine learning project focused on analyzing and modeling student performance data using a structured preprocessing and evaluation pipeline.
