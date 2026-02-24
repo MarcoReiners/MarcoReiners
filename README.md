@@ -83,6 +83,20 @@ Designed and implemented a structured multi-layer architecture (Domain, Data, Pr
 **Architecture:** Domain Layer • Data Layer • Presentation Layer  
 **My Role:** Contributed across the full system — business logic, file handling, ranking rules, UI functionality, and method implementation.
 
+### ⚽ Football Club Community Portal (WPR Project)  
+Full-stack Node.js web application for a local football club community portal with dynamic page rendering and lightweight data handling.
+
+Built an Express-based server to:
+- Render multi-page views (Home, About, Events, Contact, Thank-You) using EJS templates  
+- Handle user registration and form submissions  
+- Serve static assets (CSS, images)  
+- Implement route handling and middleware configuration  
+- Store and manage lightweight site data via JSON persistence  
+
+**Tech:** Node.js • Express • EJS • HTML • CSS • JSON  
+**Architecture:** Server-Side Rendering • Route-Based MVC Structure  
+**My Role:** Contributed across backend routing, template rendering, server configuration, and feature implementation.
+
 (See pinned repositories below for full implementations 👇)
 ---
 
