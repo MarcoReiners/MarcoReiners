@@ -1,13 +1,13 @@
-## Hi, Im Marco👋
+# Hi, Im Marco👋
 
-🎓 Final-Year BComp Software Engineering Student  
-💻 Passionate about coding and building real-world applications  
-🚀 Focused on full-stack and backend development, web applications, machine learning, and scalable systems
-🧠 Driven to analyze everyday problems and engineer effective software solutions that leaves real impact
+- 🎓 Final-Year BComp Software Engineering Student  
+- 💻 Passionate about coding and building real-world applications  
+- 🚀 Focused on full-stack and backend development, web applications, machine learning, and scalable systems
+- 🧠 Driven to analyze everyday problems and engineer effective software solutions that leave real impact
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a 4rth year Software Engineering student at Belgium Campus iTversity, with a strong foundation in software development, systems design, databases,
 machine learning, and mathematical problem solving.
@@ -20,38 +20,38 @@ I am particularly interested in designing scalable systems, solving complex prob
 ---
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### Programming
 C# • Python • JavaScript • SQL • HTML • CSS  
 
-### 🌐 Backend & Application Development
+### Backend & Application Development
 .NET Framework • ADO.NET • Windows Forms  
 Node.js • Express.js • Flask  
 EJS • RESTful API Design • Server-Side Development 
 
-### 🗄️ Databases & Data Systems
+### Databases & Data Systems
 SQL Server • MySQL • MongoDB • JSON File Persistence  
 Distributed Database Systems  
 Query Processing • Concurrency Control • Transaction Management
 
-### 🤖 Machine Learning & Data
+### Machine Learning & Data
 NumPy • Pandas • Scikit-learn • XGBoost  
 TensorFlow • Keras • Roboflow API  
 Supervised & Unsupervised Learning  
 Data Preprocessing • Model Evaluation 
 
-### 📐 Optimization & Algorithms
+### Optimization & Algorithms
 Linear Programming  
 Discrete Programming  
 Integer Programming  
 Primal Simplex • Branch-and-Bound • Gomory Cutting Planes • Knapsack
 
-### 🖼️ 3D Rendering & Document Generation
+### 3D Rendering & Document Generation
 Trimesh • Pyrender • ReportLab 
 
-### ⚙️ Tools
+### Tools
 Git • GitHub • Postman • Dash • Render • Visual Studio
 
-### 🧠 Engineering Foundations
+### Engineering Foundations
 - Object-Oriented Programming
 - System Design & Layered Architecture
 - MVC Pattern
@@ -63,7 +63,7 @@ Git • GitHub • Postman • Dash • Render • Visual Studio
 
 ## 🚀 Featured Work
 
-### 🛰️ Drone-Based 3D Accident Scene Mapping System  
+### Drone-Based 3D Accident Scene Mapping System  
 Backend processing system for automated vehicle damage detection and structured insurance report generation.
 
 Built a staged Python pipeline that:
@@ -76,7 +76,7 @@ Built a staged Python pipeline that:
 **Tech:** Python • Flask • Roboflow API • ReportLab • Trimesh • Pyrender  
 **My Role:** Implemented the ML inference integration and designed the automated PDF report generation system.
 
-### 🦸 Superhero Registry Management System   
+### Superhero Registry Management System   
 Layered C# Windows Forms application for managing superhero records with automated ranking logic and summary reporting.
 
 Designed and implemented a structured multi-layer architecture (Domain, Data, Presentation) to:
@@ -90,7 +90,7 @@ Designed and implemented a structured multi-layer architecture (Domain, Data, Pr
 **Architecture:** Domain Layer • Data Layer • Presentation Layer  
 **My Role:** Contributed across the full system — business logic, file handling, ranking rules, UI functionality, and method implementation.
 
-### ⚽ Football Club Community Portal (WPR Project)  
+### Football Club Community Portal (WPR Project)  
 Full-stack Node.js web application for a local football club community portal with dynamic page rendering and lightweight data handling.
 
 Built an Express-based server to:
@@ -104,7 +104,7 @@ Built an Express-based server to:
 **Architecture:** Server-Side Rendering • Route-Based MVC Structure  
 **My Role:** Contributed across backend routing, template rendering, server configuration, and feature implementation.
 
-### 📐 Linear & Integer Programming Solver (LPR381)  
+### Linear & Integer Programming Solver (LPR381)  
 C# console application implementing core Linear Programming (LP) and Integer Programming (IP) optimization algorithms from scratch.
 Built a modular solver capable of:
 - Converting models to canonical form  
@@ -117,13 +117,13 @@ Built a modular solver capable of:
 **Tech:** C# • .NET • Algorithm Implementation • Mathematical Optimization  
 **My Role:** Implemented the canonical form transformation logic, developed the Primal Simplex solver, and designed the Knapsack algorithm module.
 
-### 📊 Student Performance Analysis (MLG381)  
+### Student Performance Analysis (MLG381)  
 Machine learning project focused on analyzing and modeling student performance data using a structured preprocessing and evaluation pipeline.
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn  
 **My Role:** Implemented the data preprocessing pipeline.
 
-### ✈️ Airline Prediction System (MLG382)  
+### Airline Prediction System (MLG382)  
 Machine learning project focused on modeling airline data to predict performance-related outcomes using structured preprocessing and neural network modeling.
 
 **Tech:** Python • TensorFlow/Keras • Pandas • NumPy • Scikit-learn  
