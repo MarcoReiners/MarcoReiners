@@ -11,7 +11,7 @@
 
 I am a 4th-year Software Engineering student at Belgium Campus iTversity, with a strong foundation in software development, systems design, databases, machine learning, and mathematical problem solving.
 
-I am passionate about solving real-world problems by planning, designing, and building intelligent software solutions and applications — from backend systems and full-stack web applications to data-driven systems. My approach combines solid theoretical understanding with clean, maintainable code.
+Passionate about solving real-world problems by planning, designing, and building intelligent software solutions and applications — from backend systems and full-stack web applications to data-driven systems. My approach combines solid theoretical understanding with clean, maintainable code.
 
 I am particularly interested in designing scalable systems, solving complex problems, and continuously improving my technical and analytical skills.
 
