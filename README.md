@@ -97,6 +97,27 @@ Built an Express-based server to:
 **Architecture:** Server-Side Rendering • Route-Based MVC Structure  
 **My Role:** Contributed across backend routing, template rendering, server configuration, and feature implementation.
 
+### 📊 Student Performance Analysis (MLG381)  
+Machine learning project focused on analyzing and modeling student performance data using a structured preprocessing and evaluation pipeline.
+- Cleaned and prepared dataset for modeling  
+- Handled missing and irregular values  
+- Trained and evaluated classification models  
+- Compared model performance using structured metrics  
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn  
+**My Role:** Implemented the data preprocessing pipeline.
+
+### ✈️ Airline Prediction System (MLG382)  
+Machine learning project focused on modeling airline data to predict performance-related outcomes using structured preprocessing and neural network modeling.
+- Performed data cleaning, encoding, and feature scaling  
+- Built and trained a Keras neural network model  
+- Evaluated performance using structured metrics  
+- Saved and deployed trained model for inference via a Python application  
+- Documented full experimentation workflow in Jupyter Notebook  
+
+**Tech:** Python • TensorFlow/Keras • Pandas • NumPy • Scikit-learn  
+**My Role:** Contributed to model training and evaluation as well as some of the integration.
+
 (See pinned repositories below for full implementations 👇)
 ---
 
