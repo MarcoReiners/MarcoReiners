@@ -62,7 +62,7 @@ Git • GitHub • Postman • Dash • Render • Visual Studio
 
 ## 🚀 Featured Work
 
-### Drone-Based 3D Accident Scene Mapping System  
+### 🛰️ Drone-Based 3D Accident Scene Mapping System  
 Backend processing system for automated vehicle damage detection and structured insurance report generation.
 
 Built a staged Python pipeline that:
@@ -70,12 +70,12 @@ Built a staged Python pipeline that:
 - Renders 2D orthographic views from 3D models  
 - Runs ML inference using a Roboflow object detection model  
 - Normalizes and stores structured JSON annotations  
-- Generates professional PDF damage reports with severity scoring and annotated images  
-
+- Generates professional PDF damage reports with severity scoring and annotated images
+  
 **Tech:** Python • Flask • Roboflow API • ReportLab • Trimesh • Pyrender  
 **My Role:** Implemented the ML inference integration and designed the automated PDF report generation system.
 
-### Superhero Registry Management System  
+### 🦸 Superhero Registry Management System  
 Layered C# Windows Forms application for managing superhero records with automated ranking logic and summary reporting.
 
 Designed and implemented a structured multi-layer architecture (Domain, Data, Presentation) to:
@@ -89,7 +89,7 @@ Designed and implemented a structured multi-layer architecture (Domain, Data, Pr
 **Architecture:** Domain Layer • Data Layer • Presentation Layer  
 **My Role:** Contributed across the full system — business logic, file handling, ranking rules, UI functionality, and method implementation.
 
-### Football Club Community Portal (WPR Project)  
+### ⚽ Football Club Community Portal (WPR Project)  
 Full-stack Node.js web application for a local football club community portal with dynamic page rendering and lightweight data handling.
 
 Built an Express-based server to:
@@ -103,7 +103,7 @@ Built an Express-based server to:
 **Architecture:** Server-Side Rendering • Route-Based MVC Structure  
 **My Role:** Contributed across backend routing, template rendering, server configuration, and feature implementation.
 
-### Linear & Integer Programming Solver (LPR381)  
+### 📐 Linear & Integer Programming Solver (LPR381)  
 C# console application implementing core Linear Programming (LP) and Integer Programming (IP) optimization algorithms from scratch.
 
 Built a modular solver capable of:
@@ -117,13 +117,13 @@ Built a modular solver capable of:
 **Tech:** C# • .NET • Algorithm Implementation • Mathematical Optimization  
 **My Role:** Implemented the canonical form transformation logic, developed the Primal Simplex solver, and designed the Knapsack algorithm module.
 
-### Student Performance Analysis (MLG381)  
+### 📊 Student Performance Analysis (MLG381)  
 Machine learning project focused on analyzing and modeling student performance data using a structured preprocessing and evaluation pipeline.
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn  
 **My Role:** Implemented the data preprocessing pipeline.
 
-### Airline Prediction System (MLG382)  
+### ✈️ Airline Prediction System (MLG382)  
 Machine learning project focused on modeling airline data to predict performance-related outcomes using structured preprocessing and neural network modeling.
 
 **Tech:** Python • TensorFlow/Keras • Pandas • NumPy • Scikit-learn  
