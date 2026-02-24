@@ -1,23 +1,22 @@
-# Hi, Im Marco👋
+# Hi, I'm Marco 👋
 
 - 🎓 Final-Year BComp Software Engineering Student  
 - 💻 Passionate about coding and building real-world applications  
-- 🚀 Focused on full-stack and backend development, web applications, machine learning, and scalable systems
-- 🧠 Driven to analyze everyday problems and engineer effective software solutions that leave real impact
+- 🚀 Focused on full-stack and backend development, web applications, machine learning, and scalable systems  
+- 🧠 Driven to analyze everyday problems and engineer effective software solutions that leave real impact  
 
 ---
 
 ## About Me
 
-I am a 4rth year Software Engineering student at Belgium Campus iTversity, with a strong foundation in software development, systems design, databases,
-machine learning, and mathematical problem solving.
+I am a 4th-year Software Engineering student at Belgium Campus iTversity, with a strong foundation in software development, systems design, databases, machine learning, and mathematical problem solving.
 
-Passionate about solving real-word problems by planning, designing, and building intelligent software solutions and applications— from backend systems and full-stack web applications
-to intelligent data-driven solutions. My approach combines solid theoretical understanding with clean, maintainable code implementation.
+I am passionate about solving real-world problems by planning, designing, and building intelligent software solutions and applications — from backend systems and full-stack web applications to data-driven systems. My approach combines solid theoretical understanding with clean, maintainable code.
 
 I am particularly interested in designing scalable systems, solving complex problems, and continuously improving my technical and analytical skills.
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### Programming
@@ -26,39 +25,39 @@ C# • Python • JavaScript • SQL • HTML • CSS
 ### Backend & Application Development
 .NET Framework • ADO.NET • Windows Forms  
 Node.js • Express.js • Flask  
-EJS • RESTful API Design • Server-Side Development 
+EJS • RESTful API Design • Server-Side Development  
 
 ### Databases & Data Systems
 SQL Server • MySQL • MongoDB • JSON File Persistence  
 Distributed Database Systems  
-Query Processing • Concurrency Control • Transaction Management
+Query Processing • Concurrency Control • Transaction Management  
 
 ### Machine Learning & Data
 NumPy • Pandas • Scikit-learn • XGBoost  
 TensorFlow • Keras • Roboflow API  
 Supervised & Unsupervised Learning  
-Data Preprocessing • Model Evaluation 
+Data Preprocessing • Model Evaluation  
 
 ### Optimization & Algorithms
 Linear Programming  
 Discrete Programming  
 Integer Programming  
-Primal Simplex • Branch-and-Bound • Gomory Cutting Planes • Knapsack
+Primal Simplex • Branch-and-Bound • Gomory Cutting Planes • Knapsack  
 
 ### 3D Rendering & Document Generation
-Trimesh • Pyrender • ReportLab 
+Trimesh • Pyrender • ReportLab  
 
 ### Tools
-Git • GitHub • Postman • Dash • Render • Visual Studio
+Git • GitHub • Postman • Dash • Render • Visual Studio  
 
 ### Engineering Foundations
-- Object-Oriented Programming
-- System Design & Layered Architecture
-- MVC Pattern
-- Server-Side Rendering
-- API Integration
-- SDLC & Agile Principles
-  
+- Object-Oriented Programming  
+- System Design & Layered Architecture  
+- MVC Pattern  
+- Server-Side Rendering  
+- API Integration  
+- SDLC & Agile Principles  
+
 ---
 
 ## 🚀 Featured Work
@@ -76,7 +75,7 @@ Built a staged Python pipeline that:
 **Tech:** Python • Flask • Roboflow API • ReportLab • Trimesh • Pyrender  
 **My Role:** Implemented the ML inference integration and designed the automated PDF report generation system.
 
-### Superhero Registry Management System   
+### Superhero Registry Management System  
 Layered C# Windows Forms application for managing superhero records with automated ranking logic and summary reporting.
 
 Designed and implemented a structured multi-layer architecture (Domain, Data, Presentation) to:
@@ -106,14 +105,15 @@ Built an Express-based server to:
 
 ### Linear & Integer Programming Solver (LPR381)  
 C# console application implementing core Linear Programming (LP) and Integer Programming (IP) optimization algorithms from scratch.
+
 Built a modular solver capable of:
 - Converting models to canonical form  
 - Solving LP problems using the Primal Simplex method  
 - Performing Branch-and-Bound for integer solutions  
 - Applying Gomory Cutting Planes  
 - Solving Knapsack optimization problems  
-- Parsing structured input files and generating textual result reports
-  
+- Parsing structured input files and generating textual result reports  
+
 **Tech:** C# • .NET • Algorithm Implementation • Mathematical Optimization  
 **My Role:** Implemented the canonical form transformation logic, developed the Primal Simplex solver, and designed the Knapsack algorithm module.
 
@@ -127,12 +127,15 @@ Machine learning project focused on analyzing and modeling student performance d
 Machine learning project focused on modeling airline data to predict performance-related outcomes using structured preprocessing and neural network modeling.
 
 **Tech:** Python • TensorFlow/Keras • Pandas • NumPy • Scikit-learn  
-**My Role:** Contributed to model training and evaluation as well as some of the integration.
+**My Role:** Contributed to model training, evaluation, and integration.
+
+---
 
 (See pinned repositories below for full implementations 👇)
+
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/marco-reiners-8b2984346](https://linkedin.com/in/marco-reiners-8b2984346)
-- Email: [marcoreiners816@gmail.com] 
+- LinkedIn: [linkedin.com/in/marco-reiners-8b2984346](https://linkedin.com/in/marco-reiners-8b2984346)  
+- Email: marcoreiners816@gmail.com
