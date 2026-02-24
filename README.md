@@ -111,12 +111,16 @@ Built a modular solver capable of:
 
 ### 📊 Student Performance Analysis (MLG381)  
 Machine learning project focused on analyzing and modeling student performance data using a structured preprocessing and evaluation pipeline.
+
 **Tech:** Python • Pandas • NumPy • Scikit-learn  
+
 **My Role:** Implemented the data preprocessing pipeline.
 
 ### ✈️ Airline Prediction System (MLG382)  
 Machine learning project focused on modeling airline data to predict performance-related outcomes using structured preprocessing and neural network modeling.
+
 **Tech:** Python • TensorFlow/Keras • Pandas • NumPy • Scikit-learn  
+
 **My Role:** Contributed to model training and evaluation as well as some of the integration.
 
 (See pinned repositories below for full implementations 👇)
