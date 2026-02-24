@@ -69,9 +69,21 @@ Built a staged Python pipeline that:
 **Tech:** Python • Flask • Roboflow API • ReportLab • Trimesh • Pyrender  
 **My Role:** Implemented the ML inference integration and designed the automated PDF report generation system.
 
+### 🦸 Superhero Registry Management System  
+Layered C# Windows Forms application for managing superhero records with automated ranking logic and summary reporting.
+
+Designed and implemented a structured multi-layer architecture (Domain, Data, Presentation) to:
+- Perform full CRUD operations on hero records  
+- Automatically calculate Rank and Threat Level from exam scores  
+- Generate summary statistics (averages, totals, rank distribution)  
+- Persist data using structured text-file storage  
+- Support dark/light UI themes  
+
+**Tech:** C# • .NET • Windows Forms • Layered Architecture • File I/O  
+**Architecture:** Domain Layer • Data Layer • Presentation Layer  
+**My Role:** Contributed across the full system — business logic, file handling, ranking rules, UI functionality, and method implementation.
+
 (See pinned repositories below for full implementations 👇)
-
-
 ---
 
 ## 📫 Connect With Me
