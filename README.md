@@ -17,51 +17,99 @@ I am particularly interested in designing scalable systems, solving complex prob
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### Programming
-C# • Python • JavaScript • SQL • HTML • CSS  
+### 💻 Programming Languages
 
-### Backend & Application Development
-.NET Framework • ADO.NET • Windows Forms  
+C# • Java • Python • JavaScript • SQL • HTML5 • CSS3
+
+### ⚙️ Backend & Application Development
+
+.NET • .NET Framework • ADO.NET • Windows Forms  
+Java Servlets • Java Web Applications  
 Node.js • Express.js • Flask  
-EJS • RESTful API Design • Server-Side Development  
+EJS • RESTful APIs • Server-Side Rendering  
+Middleware • Authentication & Authorization • Role-Based Access Control (RBAC)
 
-### Databases & Data Systems
+### 🗄️ Databases & Data Systems
+
+PostgreSQL • Neon (Serverless PostgreSQL)  
 SQL Server • MySQL • MongoDB • JSON File Persistence  
-Distributed Database Systems  
-Query Processing • Concurrency Control • Transaction Management  
+Relational Database Design • SQL Querying & Optimization  
+Database Transactions • Concurrency Control • Data Modeling
 
-### Machine Learning & Data
+### 🎨 Frontend Development
+
+HTML5 • CSS3 • JavaScript  
+Tailwind CSS • EJS Templating  
+Responsive Web Design • Dynamic Web Interfaces
+
+### ☁️ Cloud, DevOps & Deployment
+
+Render • Neon Cloud Database • Neon Object Storage  
+Git • GitHub • GitHub Actions  
+CI/CD Workflows • Cloud Application Deployment  
+Environment Configuration • Version Control & Branching Strategies
+
+### 🧪 Software Testing & Quality Assurance
+
+Jest • xUnit • k6 • Postman  
+Unit Testing • Integration Testing • Black-Box Testing  
+Performance & Load Testing • API Testing  
+Requirements Traceability • Defect Tracking  
+Production Readiness & Release Validation
+
+### 🤖 Machine Learning & Data Analytics
+
 NumPy • Pandas • Scikit-learn • XGBoost  
 TensorFlow • Keras • Roboflow API  
 Supervised & Unsupervised Learning  
-Data Preprocessing • Model Evaluation  
+Data Preprocessing • Feature Engineering  
+Model Training & Evaluation  
+Random Forest • Neural Networks • Classification Models  
+Plotly • Dash
 
-### Optimization & Algorithms
-Linear Programming  
-Discrete Programming  
-Integer Programming  
+### 📐 Optimization & Algorithms
+
+Linear Programming • Integer Programming • Discrete Optimization  
 Primal Simplex • Branch-and-Bound • Gomory Cutting Planes • Knapsack  
+Algorithm Design • Mathematical Modeling • Computational Problem Solving
 
-### 3D Rendering & Document Generation
+### 🧊 3D Processing & Document Generation
+
 Trimesh • Pyrender • ReportLab  
+3D Model Processing • Orthographic Rendering  
+Automated PDF Report Generation • Computer Vision Integration
 
-### Tools
-Git • GitHub • Postman • Dash • Render • Visual Studio  
+### 🏗️ Software Architecture & Engineering
 
-### Engineering Foundations
-- Object-Oriented Programming  
-- System Design & Layered Architecture  
-- MVC Pattern  
-- Server-Side Rendering  
-- API Integration  
-- SDLC & Agile Principles  
+- Object-Oriented Programming (OOP)
+- Modular Monolith & Layered Architecture
+- Model-View-Controller (MVC)
+- Separation of Concerns & High Cohesion
+- Software Design Principles & Architectural Trade-offs
+- RESTful API Design & System Integration
+- Authentication, Authorization & Data Security
+- Secure Development & Access Control
+- Software Development Life Cycle (SDLC)
+- Agile Development & Team Collaboration
+- Architecture Decision Records (ADRs)
+- Requirements Engineering & Technical Documentation
+- Risk Assessment & Engineering Decision-Making
+
+### 🔧 Development Tools
+
+Visual Studio • Visual Studio Code • Git • GitHub  
+Postman • GitHub Actions • Render • Neon  
+Jest • k6 • Dash • Codex
 
 ---
 
 ## 🚀 Featured Work
 ### 🏙️ CivicConnect — Municipal Service Request Management System
+**https://github.com/Waldo-Blom/SEN381_Bugbusters**
+
 **Full-Stack Development | Software Engineering | System Architecture**
 
 CivicConnect is a full-stack web application developed as part of a three-member software engineering team to streamline municipal service delivery. The platform enables citizens to report service-related issues, track their progress, and interact with municipal departments through a centralised, role-based system.
@@ -83,6 +131,9 @@ The project follows a **Modular Monolith architecture**, designed with a strong 
 **Project Outcome:** Delivered a functional, cloud-hosted staging application, demonstrating the practical application of software architecture, secure development principles, DevOps practices, and collaborative software engineering. The final production-readiness assessment identified outstanding infrastructure limitations requiring resolution before public deployment.
 
 ### 🛰️ Drone-Based 3D Accident Scene Mapping System  
+
+**https://github.com/MarkusR22/3D_Drone_Based_Mapping_Backend**
+
 Backend processing system for automated vehicle damage detection and structured insurance report generation.
 
 Built a staged Python pipeline that:
