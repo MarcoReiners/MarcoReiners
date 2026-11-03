@@ -61,6 +61,26 @@ Git • GitHub • Postman • Dash • Render • Visual Studio
 ---
 
 ## 🚀 Featured Work
+### 🏙️ CivicConnect — Municipal Service Request Management System
+**Full-Stack Development | Software Engineering | System Architecture**
+
+CivicConnect is a full-stack web application developed as part of a three-member software engineering team to streamline municipal service delivery. The platform enables citizens to report service-related issues, track their progress, and interact with municipal departments through a centralised, role-based system.
+
+The project follows a **Modular Monolith architecture**, designed with a strong focus on maintainability, security, scalability considerations, and software engineering best practices.
+
+**Key Features & Engineering Highlights:**
+- **Role-Based Access Control (RBAC):** Dedicated interfaces and permissions for Citizens, Field Staff, Department Managers, and Operators.
+- **Service Request Management:** End-to-end request submission, departmental routing, status tracking, and resolution workflows.
+- **Security & Data Protection:** Department-level access restrictions, controlled access to citizen contact information, and audit logging.
+- **Cloud Integration:** PostgreSQL database hosted on Neon, private object storage for attachments, and application deployment on Render.
+- **Software Quality Assurance:** Automated testing, CI workflows, requirements traceability, and structured engineering documentation.
+- **Performance Engineering:** Conducted k6 load testing against the cloud-hosted application, successfully processing 191 service requests with zero submission failures and a p95 response time of 454 ms under five concurrent virtual users.
+
+**Technology Stack:** Node.js · Express.js · PostgreSQL · Neon · EJS · Tailwind CSS · JavaScript · Jest · k6 · GitHub Actions · Render
+
+**My Contributions:** Contributed to architectural evaluation and engineering decisions, full-stack development, cloud deployment and staging verification, performance testing, quality assurance, technical documentation, and the final production-readiness assessment.
+
+**Project Outcome:** Delivered a functional, cloud-hosted staging application, demonstrating the practical application of software architecture, secure development principles, DevOps practices, and collaborative software engineering. The final production-readiness assessment identified outstanding infrastructure limitations requiring resolution before public deployment.
 
 ### 🛰️ Drone-Based 3D Accident Scene Mapping System  
 Backend processing system for automated vehicle damage detection and structured insurance report generation.
