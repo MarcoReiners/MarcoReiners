@@ -137,12 +137,6 @@ Built a modular solver capable of:
 **Tech:** C# • .NET • Algorithm Implementation • Mathematical Optimization  
 **My Role:** Implemented the canonical form transformation logic, developed the Primal Simplex solver, and designed the Knapsack algorithm module.
 
-### 📊 Student Performance Analysis (MLG381)  
-Machine learning project focused on analyzing and modeling student performance data using a structured preprocessing and evaluation pipeline.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn  
-**My Role:** Implemented the data preprocessing pipeline.
-
 ### ✈️ Airline Prediction System (MLG382)  
 Machine learning project focused on modeling airline data to predict performance-related outcomes using structured preprocessing and neural network modeling.
 
